@@ -52,7 +52,7 @@ To push our local changes to our GitHub repository using Android Studio, first r
 
 You will be presented with a pop up screen with the title “Push Commits”. Click on “Define remote”.
 
-Open your GitHub repository in your web browser and copy the repository URL (ending in .git) in the section highlighted by the screenshot below.
+Open your GitHub repository in your web browser and copy the repository URL (ending in .git) .
 
 Enter this URL into the URL requested in the “Define Remote” pop up screen in Android Studio and press the “OK” button.
 
