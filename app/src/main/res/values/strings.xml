@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloAndroidOnGithub</string>
+    <string name="hello_button">Hello Button</string>
+    <string name="hello_switch">Hello Switch</string>
 </resources>
