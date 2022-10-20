@@ -1,7 +1,7 @@
 # HelloAndroidOnGithub
-This projects tests creating Android Studio Project and Pushing it to Github
+This project tests creating Android Studio Project and Pushing it to Github
 
-Used: https://learntodroid.com/how-to-use-git-and-github-in-android-studio/
+Used URL: https://learntodroid.com/how-to-use-git-and-github-in-android-studio/
 
 # Steps
 Step 1: Download/Upgrade and Install Git
